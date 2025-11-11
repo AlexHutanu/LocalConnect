@@ -12,7 +12,7 @@ export default function Header() {
           href="/"
           className="text-2xl font-bold text-primary hover:opacity-80 transition-opacity whitespace-nowrap"
         >
-          ServiceHub
+          Local Connect
         </Link>
 
         <nav
